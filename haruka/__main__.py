@@ -24,7 +24,7 @@ PM_START = """Heya {}, my name is {}! if you have any questions about how to use
 
 I am a group manager bot made by [this wonderful person](tg://user?id=991867857) !!!
 
-**Professionally Made By [TELEGRAM KING](tg://user?id=991867857) & Officially Made For [DEV ADMIN](tg://user?id=944484079) To Manage His Groups [DEV GROUPS](t.me/dev_groups)❤️❤️**
+**Professionally Made By [TELEGRAM KING](tg://user?id=991867857)
 
 For more commands click /help...
 
